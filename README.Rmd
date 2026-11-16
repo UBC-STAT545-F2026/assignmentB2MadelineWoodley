@@ -15,11 +15,11 @@ knitr::opts_chunk$set(
 
 # assignmentB2MadelineWoodley package
 
-This package contains a single function (and associated information), `groupedmeans()`, 
-which allows users to efficiently group information within their dataframe (`data`) 
-based on values in a variable (usually categorical) within their dataset (`var1`) 
-and calculate the mean of values for another (numeric) variable (`var2`) in their dataset based on the `var1` groupings. 
-The function returns a summary table with 'var1' and the associated grouped `var2` means.
+This package contains a single function, `groupedmeans()`, 
+which allows users to efficiently group information within their dataframe, `data`, 
+based on values in a variable, `var1` (usually categorical), within their dataset
+and calculate the mean of values for another (numeric) variable, `var2`, in their dataset based on the `var1` groupings. 
+The function returns a summary table with `var1` and the associated grouped `var2` means.
 Note that the function is written to retain missing (NA) values for `var2`.
 
 ## Installation
