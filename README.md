@@ -15,7 +15,7 @@ values for `var2`.
 ## Installation
 
 Package installation can be done directly by calling
-`devtools::install_github(UBC-STAT545-F2026/assignmentB2MadelineWoodley", ref = "1.0")`
+`devtools::install_github(UBC-STAT545-F2026/assignmentB2MadelineWoodley", ref = "1.0.0")`
 
 ## Example
 
